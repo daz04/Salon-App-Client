@@ -1,0 +1,12 @@
+{
+    "clients": [
+        {
+            "Email": "danazahreddine@hotmail.com",
+            "Phone": "+15555555555",
+            "FirstName": "Dana",
+            "LastName": null,
+            "Addresses": ["01"]
+
+        }
+    ]
+}

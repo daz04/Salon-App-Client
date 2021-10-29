@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "glamoClient25",
-    "slug": "glamoClient25",
-    "version": "1.0.0",
+    "name": "Glamo",
+    "slug": "Glamo",
+    "version": "1.6.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,13 +17,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saiflimited.glamo"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.glamoapp.glamo",
+      "versionCode": 7
     },
     "web": {
       "favicon": "./assets/favicon.png"

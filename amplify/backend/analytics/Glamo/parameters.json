@@ -1,0 +1,21 @@
+{
+    "appName": "Glamo",
+    "roleName": "pinpointLambdaRole7a173862",
+    "cloudformationPolicyName": "cloudformationPolicy7a173862",
+    "cloudWatchPolicyName": "cloudWatchPolicy7a173862",
+    "pinpointPolicyName": "pinpointPolicy7a173862",
+    "authPolicyName": "pinpoint_amplify_7a173862",
+    "unauthPolicyName": "pinpoint_amplify_7a173862",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

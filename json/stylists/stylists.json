@@ -1,0 +1,20 @@
+{
+    "stylists": [
+        {
+            "Id": "01",
+            "FirstName": "Rishielle",
+            "LastName": "Giscombe",
+            "Email": "clara@hotmail.com",
+            "Phone": "555-555-3232",
+            "StreetNumber": 1032,
+            "City": "Coral Springs",
+            "State": "Florida",
+            "WorkingRadius": 5,
+            "TravelCost": 50.00,
+            "ProfilePictureURL":"https://stylist-profile-pic.s3.amazonaws.com/01/main.jpeg",
+            "Title": "Hair Stylist & Makeup Artist"
+           
+        }
+    
+    ]
+}

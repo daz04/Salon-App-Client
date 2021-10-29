@@ -1,0 +1,47 @@
+{
+    "services": [
+        {
+            "Id":"01",
+            "StylistId":"01",
+            "Name": "FishTail Braids",
+            "Price": 75.20,
+            "Duration":60,
+            "Description": "A fishtail braid",
+            "Utilities": ["Electric outlet"],
+            "Category": "Braids",
+            "SubCategory": "Fishtail",
+            "Gender": "F",
+            "Media": ["https://service-media.s3.amazonaws.com/01/main.jpeg","https://service-media.s3.amazonaws.com/01/1.jpeg"]
+
+        },
+        {
+            "Id":"02",
+            "StylistId":"01",
+            "Name": "Dutch Braids",
+            "Price": 100.50,
+            "Duration":70,
+            "Description": "A dutch braid",
+            "Utilities": ["Electric outlet"],
+            "Category": "Braids",
+            "SubCategory": "Dutch Braids",
+            "Gender": "F",
+            "Media": ["https://service-media.s3.amazonaws.com/02/main.jpeg","https://service-media.s3.amazonaws.com/02/1.jpeg"]
+
+        },
+        {
+            "Id":"03",
+            "StylistId":"01",
+            "Name": "HD Makeup",
+            "Price": 100.50,
+            "Duration":70,
+            "Description": "Celebrity level makeup",
+            "Utilities": ["Electric outlet"],
+            "Category": "Makeup",
+            "SubCategory": "HD Makeup",
+            "Gender": "F",
+            "Media": ["https://service-media.s3.amazonaws.com/02/main.jpeg","https://service-media.s3.amazonaws.com/02/1.jpeg"]
+
+        }
+
+    ]
+}

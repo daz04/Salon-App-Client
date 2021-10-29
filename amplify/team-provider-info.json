@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-glamo-dev-13430-authRole",
+      "UnauthRoleArn": "arn:aws:iam::849937779336:role/amplify-glamo-dev-13430-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::849937779336:role/amplify-glamo-dev-13430-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-glamo-dev-13430-deployment",
+      "UnauthRoleName": "amplify-glamo-dev-13430-unauthRole",
+      "StackName": "amplify-glamo-dev-13430",
+      "StackId": "arn:aws:cloudformation:us-east-1:849937779336:stack/amplify-glamo-dev-13430/ccbfb370-0b74-11ec-9aa8-12ff31b78b4f",
+      "AmplifyAppId": "d1s613fsvpsvfq"
+    },
+    "categories": {
+      "auth": {
+        "cognito0350e242": {}
+      }
+    }
+  }
+}

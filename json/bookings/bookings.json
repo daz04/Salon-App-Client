@@ -1,0 +1,28 @@
+{
+    "bookings": [
+        {
+            "Id": "01",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "AppointmentId":"02",
+            "Status": "confirmed"
+        },
+        {
+            "Id": "02",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "AppointmentId":"03",
+            "Status": "pending"
+        },
+        {
+            "Id": "03",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "AppointmentId":"04",
+            "Status": "confirmed"
+        },
+        {
+            "Id": "04",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "AppointmentId":"05",
+            "Status": "confirmed"
+        }
+    ]
+}

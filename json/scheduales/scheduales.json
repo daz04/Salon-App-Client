@@ -1,0 +1,44 @@
+{
+    "scheduales" : [
+        {
+            "Id": "01",
+            "StylistId": "01",
+            "Date":"2021-04-04",
+            "StartTime": "12:00 AM",
+            "EndTime": "10:00 PM"
+
+        },
+        {
+            "Id": "02",
+            "StylistId": "01",
+            "Date":"2021-05-03",
+            "StartTime": "12:00 AM",
+            "EndTime": "10:00 PM"
+
+        },
+        {
+            "Id": "03",
+            "StylistId": "01",
+            "Date":"2021-05-04",
+            "StartTime": "12:00 AM",
+            "EndTime": "10:00 PM"
+
+        },
+        {
+            "Id": "04",
+            "StylistId": "01",
+            "Date":"2021-05-05",
+            "StartTime": "9:00 AM",
+            "EndTime": "4:00 PM"
+
+        },
+        {
+            "Id": "04",
+            "StylistId": "01",
+            "Date":"2021-05-06",
+            "StartTime": "9:00 AM",
+            "EndTime": "4:00 PM"
+
+        }
+    ]
+}
